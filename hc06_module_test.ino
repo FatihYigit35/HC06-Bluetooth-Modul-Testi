@@ -15,7 +15,7 @@ void setup() {
   bluetoothSerial.begin(9600);
 
   // Başlangıç mesajı
-  Serial.println("\nHC-06 Bluetooth modulu baglantisi kuruldu.");
+  Serial.println("\n HC-06 Bluetooth modulu baglantisi kuruldu.");
 }
 void loop() {  
   
